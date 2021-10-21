@@ -42,6 +42,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
+![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows&logoColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ### Projects
