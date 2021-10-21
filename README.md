@@ -47,6 +47,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ### Projects
+[💸 devFinances](https://iamfelipy.github.io/rocketseat/discovery/devFinances/)
 
 ### GitHub Profile 
 ![GitHubStates](https://github-readme-stats.vercel.app/api?username=iamfelipy&hide_title=true&show_icons=true&theme=midnight-purple)
