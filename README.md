@@ -30,6 +30,7 @@
 ![React Native](https://img.shields.io/badge/react_native-000000?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-000000?style=flat&logo=redux&logoColor=593d88)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/express.js-000?style=flat&logo=express&logoColor=%3404d59)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-000000?style=flat&logo=yarn&logoColor=2C8EBB)
 ![Stylus](https://img.shields.io/badge/stylus-000000?style=flat&logo=stylus&logoColor=ff6347)
