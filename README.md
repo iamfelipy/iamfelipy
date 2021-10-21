@@ -48,4 +48,7 @@
 
 ### GitHub Profile 
 ![GitHubStates](https://github-readme-stats.vercel.app/api?username=iamfelipy&hide_title=true&show_icons=true&theme=midnight-purple)
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfelipy&hide=html&hide_title=true&layout=compact&icon_color=fff&theme=midnight-purple" /></a>
+![GitHubStates](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfelipy&hide=html&hide_title=true&layout=compact&icon_color=fff&theme=midnight-purple)
+
+<!-- ## Now Playing -->
+<!-- [![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/21ylb6m5pnvvi63jsciouutty) -->
