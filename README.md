@@ -1,5 +1,3 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&center=falso&vCenter=verdade&height=30&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/felipycamargo/)
@@ -27,7 +25,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/react_native-000000?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-000000?style=flat&logo=redux&logoColor=593d88)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-000?style=flat&logo=express&logoColor=%3404d59)
@@ -47,7 +44,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ### Projects
-[💸 devFinances](https://iamfelipy.github.io/rocketseat/discovery/devFinances/)
+[devFinances](https://iamfelipy.github.io/rocketseat/discovery/devFinances/)
+[Jogo dos balões](https://iamfelipy.github.io/felipy/jogoBaloes/)
+[Jogo da memoria](https://iamfelipy.github.io/felipy/jogoMemoria/)
 
 ### GitHub Profile 
 ![GitHubStates](https://github-readme-stats.vercel.app/api?username=iamfelipy&hide_title=true&show_icons=true&theme=midnight-purple)
