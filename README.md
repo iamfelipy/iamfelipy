@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&center=falso&vCenter=verdade&height=30&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1500&color=F7F7F7&background=000000&center=true&vCenter=true&random=false&width=300&height=30&lines=Welcome+to+my+Github+Profile+)](https://git.io/typing-svg)
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/felipycamargo/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-000000?style=flat&logo=stack-overflow&logoColor=FE7A16)](https://pt.stackoverflow.com/users/262673/felipy)
