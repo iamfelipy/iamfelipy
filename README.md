@@ -45,9 +45,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ### Projects
-[devFinances](https://iamfelipy.github.io/rocketseat/discovery/devFinances/)
-[Jogo dos balões](https://iamfelipy.github.io/felipy/jogoBaloes/)
-[Jogo da memoria](https://iamfelipy.github.io/felipy/jogoMemoria/)
+[devFinances](https://iamfelipy.github.io/rocketseat/discovery/devFinances/)<br />
+[Ballon Game](https://iamfelipy.github.io/felipy/jogoBaloes/)<br />
+[Memory Game](https://iamfelipy.github.io/felipy/jogoMemoria/)<br />
 
 ### GitHub Profile 
 ![GitHubStates](https://github-readme-stats.vercel.app/api?username=iamfelipy&hide_title=true&show_icons=true&theme=midnight-purple)
