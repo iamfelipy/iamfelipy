@@ -5,9 +5,9 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-000000?style=flat&logo=stack-overflow&logoColor=FE7A16)](https://pt.stackoverflow.com/users/262673/felipy)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-000000?style=flat&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/iamfelipy?hr_r=1)
 
-* 👋 Oi, eu sou o Felipy
-* 💼 Eu sou um Desenvolvedor Full-Stack 
-* 💬 Fale comigo sobre oportunidades em Javascript Stack 
+* 👋 Hi
+* 💼 I'm Full Stack Developer Typescript
+* 💬 Talk to me about opportunities in TypeScript Stack
 
 ### Languages
 
