@@ -5,9 +5,9 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-000000?style=flat&logo=stack-overflow&logoColor=FE7A16)](https://pt.stackoverflow.com/users/262673/felipy)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-000000?style=flat&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/iamfelipy?hr_r=1)
 
-* 👋 Hi
-* 💼 I'm Full Stack Developer Typescript
-* 💬 Talk to me about opportunities in TypeScript Stack
+* 👋 Olá
+* 💼 Eu sou um Desenvolvedor Junior
+* [PDF com o link dos meus projetos]([https://iamfelipy.github.io/rocketseat/discovery/devFinances/](https://drive.google.com/file/d/1N8XN5ftiASJM8wxaFUPBmvoyV5WWVLru/view?usp=sharing))<br />
 
 ### Languages
 
