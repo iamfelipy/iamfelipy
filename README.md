@@ -7,7 +7,7 @@
 
 * 👋 Olá
 * 💼 Eu sou um Desenvolvedor Junior
-* ![PDF com o link dos meus projetos]([https://iamfelipy.github.io/rocketseat/discovery/devFinances/](https://drive.google.com/file/d/1N8XN5ftiASJM8wxaFUPBmvoyV5WWVLru/view?usp=sharing))<br />
+* [PDF com o link dos meus projetos](https://drive.google.com/file/d/1N8XN5ftiASJM8wxaFUPBmvoyV5WWVLru/view?usp=sharing)<br />
 
 ### Languages
 
