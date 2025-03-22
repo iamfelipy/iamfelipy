@@ -6,7 +6,7 @@
 [![HackerRank](https://img.shields.io/badge/Hackerrank-000000?style=flat&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/iamfelipy?hr_r=1)
 
 * 👋 Olá
-* 💼 Eu sou um Desenvolvedor Junior
+* FullStack Typescript | Node.js | React.js | Next.js | Vitest | ChatGPT
 * [PDF com o link dos meus projetos](https://drive.google.com/file/d/1N8XN5ftiASJM8wxaFUPBmvoyV5WWVLru/view?usp=sharing)<br />
 
 ### Languages
