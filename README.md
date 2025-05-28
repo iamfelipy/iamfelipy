@@ -7,7 +7,7 @@
 
 * 👋 Olá
 * FullStack Typescript | Node.js | React.js | Next.js | Vitest | ChatGPT
-* [PDF com o link dos meus projetos](https://drive.google.com/file/d/1N8XN5ftiASJM8wxaFUPBmvoyV5WWVLru/view?usp=sharing)<br />
+* [Projeto relevantes - explicação na entrevista técnica]([https://drive.google.com/file/d/1N8XN5ftiASJM8wxaFUPBmvoyV5WWVLru/view?usp=sharing](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing))<br />
 
 ### Languages
 
