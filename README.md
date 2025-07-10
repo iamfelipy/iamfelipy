@@ -2,12 +2,12 @@
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/felipycamargo/)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-000000?style=flat&logo=stack-overflow&logoColor=FE7A16)](https://pt.stackoverflow.com/users/262673/felipy)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-000000?style=flat&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/iamfelipy?hr_r=1)
 
-* 👋 Olá
-* FullStack Typescript | Node.js | React.js | Next.js | Vitest | ChatGPT
-* [Projeto relevantes - explicação na entrevista técnica](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)<br />
+* FullStack Typescript | Node.js | React.js | Next.js | Nestjs | Vitest | ChatGPT
+* [portifolio](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)<br />
+* [duolingo](https://www.duolingo.com/profile/ofelcam)<br />
+
 
 ### Languages
 
