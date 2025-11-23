@@ -1,57 +1,76 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1500&color=F7F7F7&background=000000&center=true&vCenter=true&random=false&width=300&height=30&lines=Welcome+to+my+Github+Profile+)](https://git.io/typing-svg)
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+[LinkedIn](https://www.linkedin.com/in/felipycamargo/)  
+Portfólio (PDF): https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing  
+Duolingo: https://www.duolingo.com/profile/ofelcam  
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/felipycamargo/)
-[![HackerRank](https://img.shields.io/badge/Hackerrank-000000?style=flat&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/iamfelipy?hr_r=1)
+Portfólio — projetos no ecossistema JavaScript/TypeScript:
 
-* FullStack Typescript | Node.js | React.js | Next.js | Nestjs | Vitest | ChatGPT
-* [portifolio](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)<br />
-* [duolingo](https://www.duolingo.com/profile/ofelcam)<br />
+Back-end
 
+1. Monolito – API – Academia – Clean Architecture  
+Código: https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/3-implementando-o-solid/projeto-construido-em-aula-api-gym-pass  
+Stack: Fastify, TDD, Prisma, TypeScript
 
-### Languages
+2. Monolito – API – Fórum – DDD + Clean Architecture  
+Código: https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/4-nestjs-nodejs/4-nestjs-nodejs  
+Stack: NestJS, TDD, DDD, Prisma, Redis, TypeScript
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572b6)
-![Shell Script](https://img.shields.io/badge/-gnubash-000000?style=flat&logo=gnubash&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=E10098)
+3. Monolito – API – FastFeet – DDD + Clean Architecture  
+Código: https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/5-nestjs-fast-feet-api  
+Stack: Node.js, NestJS, Prisma, PostgreSQL, Redis, JWT, Docker, Vitest, Zod, Bcrypt.js, S3
 
+4. DDD – Domain Driven Design (Puro)  
+Código: https://github.com/iamfelipy/f3-ddd-tatico-patterns-ts/tree/main  
+Conteúdo: Entidades, VOs, Agregados, Services, Events, Factories, Módulos, Jest
 
-### Technologies
+Front-end
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+1. Countdown  
+Deploy: https://2024-rocketseat-reactjs-countdown-p1levb9t3-iamfelipys-projects.vercel.app/  
+Código: https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/2-aprofundando-em-hooks/countdown-project  
+Stack: React, TS, Vite, Router, Styled, Context, RHF + Zod, date-fns
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/redux-000000?style=flat&logo=redux&logoColor=593d88)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-000?style=flat&logo=express&logoColor=%3404d59)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-000000?style=flat&logo=yarn&logoColor=2C8EBB)
-![Stylus](https://img.shields.io/badge/stylus-000000?style=flat&logo=stylus&logoColor=ff6347)
-![Webpack](https://img.shields.io/badge/webpack-000000?style=flat&logo=webpack&logoColor=8DD6F9)
-![Gatsby](https://img.shields.io/badge/Gatsby-000000?style=flat&logo=gatsby&logoColor=663399)
+2. Coffee Delivery  
+Deploy: https://2024-rocketseat-reactjs-coffee-deli.vercel.app/  
+Código: https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/2-aprofundando-em-hooks/prova-do-modulo-coffee-delivery  
+Stack: React, TS, Vite, Styled, Router, RHF, Zod, Immer
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Heroku](https://img.shields.io/badge/Heroku-000000?style=flats&logo=heroku&logoColor=430098)
+3. GitHub Blog  
+Deploy: https://2024-rocketseat-reactjs-github-blog.vercel.app/  
+Código: https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/3-http-performance/prova-do-modulo-github-blog  
+Stack: React, TS, Vite, Styled, Axios, Context, Router, RHF, Zod, Markdown, date-fns
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+4. Pizza Shop  
+Deploy: https://pizza-shop-react-rocketseat-2025.vercel.app/  
+Código: https://github.com/iamfelipy/2024-rocketseat-reactjs/blob/main/4-Integrando-frontend-backend/README.md  
+Stack: React, TS, Vite, Tailwind, MSW, React Query, Vitest, Testing Library, Playwright
 
-![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows&logoColor=0078D6)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+5. Ignite Shop (Stripe)  
+Deploy: https://nextjs-ignite-shop-v2.vercel.app/  
+Código: https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/5-primeiro-framework/desafio-do-modulo-ignite-shop-v2  
+Stack: Next.js, TS, Stripe, use-shopping-cart, Stitches, Axios
 
-### Projects
-[devFinances](https://iamfelipy.github.io/rocketseat/discovery/devFinances/)<br />
-[Ballon Game](https://iamfelipy.github.io/felipy/jogoBaloes/)<br />
-[Memory Game](https://iamfelipy.github.io/felipy/jogoMemoria/)<br />
+6. Design System – Storybook  
+Storybook: https://iamfelipy.github.io/modulo-6-design-system-rocketseat-reactjs/?path=/story/home--page  
+Código: https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/6-design-system/projeto-do-modulo-design-system  
+Stack: React, TS, Storybook, Turborepo, TSUP, Stitches, Radix UI, Changesets
 
-### GitHub Profile 
-![GitHubStates](https://github-readme-stats.vercel.app/api?username=iamfelipy&hide_title=true&show_icons=true&theme=midnight-purple)
-![GitHubStates](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfelipy&hide=html&hide_title=true&layout=compact&icon_color=fff&theme=midnight-purple)
+7. Schedule with Google Calendar  
+Deploy: https://nextjs-ignite-call-agendamento.vercel.app/  
+Código: https://github.com/iamfelipy/nextjs-ignite-call-agendamento  
+Stack: Next.js, TS, NextAuth, Google APIs, Prisma, RHF + Zod, React Query, Day.js, Docker
 
-<!-- ## Now Playing -->
-<!-- [![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/21ylb6m5pnvvi63jsciouutty) -->
+8. Bookwise  
+Deploy: https://nextjs-bookwise-rocketseat-2025.vercel.app/  
+Código: https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/7-desafio-bookwise  
+Stack: Next.js, TS, NextAuth, Google APIs, Prisma, React Query, RHF + Zod, Day.js
+
+9. DT Money  
+Deploy: https://2024-rocketseat-reactjs.vercel.app/  
+Código: https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/3-http-performance/dt-money  
+Stack: React, TS, Vite, Styled, Axios, JSON Server, Context, RHF + Zod, Radix UI
+
+10. Jogo dos Balões (Vanilla JS)  
+https://iamfelipy.github.io/felipy/jogoBaloes/
+
+11. Jogo da Memória (Vanilla JS)  
+https://iamfelipy.github.io/felipy/jogoMemoria/
