@@ -1,5 +1,4 @@
 [LinkedIn](https://www.linkedin.com/in/felipycamargo/)  
-[Portfólio (PDF)](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)  
 [Duolingo](https://www.duolingo.com/profile/ofelcam)
 
 Projetos alternativos:
@@ -24,17 +23,18 @@ stack: Node.js (ES Modules), HTTP nativo, Streams, csv-parse, banco JSON (fs).
 
 3. Monolito – API – Academia – Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/3-implementando-o-solid/projeto-construido-em-aula-api-gym-pass)  
+CI/CD: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/.github/workflows)  
 Stack: Fastify, TDD, Prisma, TypeScript
 
-4. Monolito – API – Fórum – DDD + Clean Architecture  
+5. Monolito – API – Fórum – DDD + Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/4-nestjs-nodejs/4-nestjs-nodejs)  
 Stack: NestJS, TDD, DDD, Prisma, Clean Architecture, TypeScript, Redis
 
-5. Monolito – API – FastFeet – DDD + Clean Architecture  
+6. Monolito – API – FastFeet – DDD + Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/5-nestjs-fast-feet-api)  
 Stack: Node.js, NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis, JWT, Docker, Vitest (unitários e E2E), Zod, Bcrypt.js, AWS SDK (S3), ESLint + Prettier, Dotenv
 
-6. DDD – Domain Driven Design (Puro)  
+7. DDD – Domain Driven Design (Puro)  
 Código: [Repositório](https://github.com/iamfelipy/f3-ddd-tatico-patterns-ts/tree/main)  
 Stack: Entidades, Value Objects, Agregados, Domain Services, Repositories, Domain Events, Factories, Módulos, Testes (Jest)
 
@@ -93,3 +93,6 @@ Stack: JavaScript (Vanilla)
 11. Jogo da Memória (Vanilla JS)  
 Deploy: [Link](https://iamfelipy.github.io/felipy/jogoMemoria/)  
 Stack: JavaScript (Vanilla)
+
+Projetos antigos:
+[Projetos antigos](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)  
