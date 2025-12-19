@@ -17,19 +17,24 @@ Projetos no ecossistema JavaScript/TypeScript:
 
 Back-end
 
-1. Monolito – API – Academia – Clean Architecture  
+1. API de Gerenciamento de Tarefas em Node.js  
+Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/1-fundamentos/desafio-fundamentos)  
+API RESTful de tarefas feita em Node.js puro, com persistência em JSON, importação por CSV e uso de streams, destacando recursos nativos da linguagem.  
+stack: Node.js (ES Modules), HTTP nativo, Streams, csv-parse, banco JSON (fs).
+
+3. Monolito – API – Academia – Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/3-implementando-o-solid/projeto-construido-em-aula-api-gym-pass)  
 Stack: Fastify, TDD, Prisma, TypeScript
 
-2. Monolito – API – Fórum – DDD + Clean Architecture  
+4. Monolito – API – Fórum – DDD + Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/4-nestjs-nodejs/4-nestjs-nodejs)  
 Stack: NestJS, TDD, DDD, Prisma, Clean Architecture, TypeScript, Redis
 
-3. Monolito – API – FastFeet – DDD + Clean Architecture  
+5. Monolito – API – FastFeet – DDD + Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/5-nestjs-fast-feet-api)  
 Stack: Node.js, NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis, JWT, Docker, Vitest (unitários e E2E), Zod, Bcrypt.js, AWS SDK (S3), ESLint + Prettier, Dotenv
 
-4. DDD – Domain Driven Design (Puro)  
+6. DDD – Domain Driven Design (Puro)  
 Código: [Repositório](https://github.com/iamfelipy/f3-ddd-tatico-patterns-ts/tree/main)  
 Stack: Entidades, Value Objects, Agregados, Domain Services, Repositories, Domain Events, Factories, Módulos, Testes (Jest)
 
