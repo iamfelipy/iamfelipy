@@ -36,7 +36,11 @@ Stack: Node.js, NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis, JWT, Docker, 
 
 7. DDD – Domain Driven Design (Puro)  
 Código: [Repositório](https://github.com/iamfelipy/f3-ddd-tatico-patterns-ts/tree/main)  
-Stack: Entidades, Value Objects, Agregados, Domain Services, Repositories, Domain Events, Factories, Módulos, Testes (Jest)
+Stack: typescript, jest
+
+8. Clean Architecture  
+Código: [Repositório](https://github.com/iamfelipy/f3-clean-architecture/tree/main)  
+Stack: typescript, jest  
 
 Front-end
 
