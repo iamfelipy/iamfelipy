@@ -12,6 +12,9 @@ Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycl
 Arquitetura Hexagonal – Go  
 Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
 
+Book: The rust book  
+Código: [Repositório](https://github.com/iamfelipy/rust-book)
+
 Projetos no ecossistema JavaScript/TypeScript:
 
 Back-end
