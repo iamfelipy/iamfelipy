@@ -1,20 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/felipycamargo/)  
 [Duolingo](https://www.duolingo.com/profile/ofelcam)
 
-Projetos alternativos:
-
-gRPC – Go  
-Código: [Repositório](https://github.com/iamfelipy/gRPC-go-fullcycle)
-
-GraphQL – Go  
-Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycle)
-
-Arquitetura Hexagonal – Go  
-Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
-
-Book: The rust book  
-Código: [Repositório](https://github.com/iamfelipy/rust-book)
-
 Projetos no ecossistema JavaScript/TypeScript:
 
 Back-end
@@ -101,6 +87,20 @@ Stack: JavaScript (Vanilla)
 11. Jogo da Memória (Vanilla JS)  
 Deploy: [Link](https://iamfelipy.github.io/felipy/jogoMemoria/)  
 Stack: JavaScript (Vanilla)
+
+Projetos alternativos:
+
+gRPC – Go  
+Código: [Repositório](https://github.com/iamfelipy/gRPC-go-fullcycle)
+
+GraphQL – Go  
+Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycle)
+
+Arquitetura Hexagonal – Go  
+Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
+
+Book: The rust book  
+Código: [Repositório](https://github.com/iamfelipy/rust-book)
 
 Projetos antigos:
 [Projetos antigos](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)  
