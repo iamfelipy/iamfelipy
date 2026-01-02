@@ -44,7 +44,7 @@ Stack: typescript, jest
 8. Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/f3-clean-architecture/tree/main)  
 Stack: typescript, jest  
-Testes: 8 unit | 6 integration | 2 e2e
+Testes: Unit (23), Integration (9), E2E (2)
 
 Front-end
 
