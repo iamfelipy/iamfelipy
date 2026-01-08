@@ -5,32 +5,35 @@ Projetos no ecossistema JavaScript/TypeScript:
 
 Back-end
 
-1. API de Gerenciamento de Tarefas em Node.js  
+1. api sem framework nodejs nativo
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/1-fundamentos/desafio-fundamentos)  
-API RESTful de tarefas feita em Node.js puro, com persistência em JSON, importação por CSV e uso de streams, destacando recursos nativos da linguagem.  
-stack: Node.js (ES Modules), HTTP nativo, Streams, csv-parse, banco JSON (fs).
+Node.js (ES Modules), HTTP nativo, Streams, csv-parse, banco JSON (fs).
 
 3. Monolito – API – Academia – Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/3-implementando-o-solid/projeto-construido-em-aula-api-gym-pass)  
 CI/CD: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/.github/workflows)  
-Stack: Fastify, TDD, Prisma, TypeScript
+Fastify, TDD, Prisma, TypeScript
 
 5. Monolito – API – Fórum – DDD + Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/4-nestjs-nodejs/4-nestjs-nodejs)  
-Stack: NestJS, TDD, DDD, Prisma, Clean Architecture, TypeScript, Redis
+NestJS, TDD, DDD, Prisma, Clean Architecture, TypeScript, Redis
 
 6. Monolito – API – FastFeet – DDD + Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/5-nestjs-fast-feet-api)  
-Stack: Node.js, NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis, JWT, Docker, Vitest (unitários e E2E), Zod, Bcrypt.js, AWS SDK (S3), ESLint + Prettier, Dotenv
+Node.js, NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis, JWT, Docker, Vitest (unitários e E2E), Zod, Bcrypt.js, AWS SDK (S3), ESLint + Prettier, Dotenv
 
 7. DDD – Domain Driven Design (Puro)  
 Código: [Repositório](https://github.com/iamfelipy/f3-ddd-tatico-patterns-ts/tree/main)  
-Stack: typescript, jest
+typescript, jest
 
 8. Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/f3-clean-architecture/tree/main)  
-Stack: typescript, jest  
+typescript, jest  
 Testes: Unit (51), Integration (19), E2E (6)
+
+8. sistema monolitico modular - comunicação entre modulos com facade
+Código: [Repositório](https://github.com/iamfelipy/fc3-sistema-monolitico-modular)  
+typescript, jest, clean architecture, domain driven design, facade, test driven development
 
 Front-end
 
