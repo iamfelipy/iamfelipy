@@ -5,7 +5,7 @@ Projetos no ecossistema JavaScript/TypeScript:
 
 Back-end
 
-1. api sem framework nodejs nativo
+1. api sem framework nodejs nativo  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/1-fundamentos/desafio-fundamentos)  
 Node.js (ES Modules), HTTP nativo, Streams, csv-parse, banco JSON (fs).
 
@@ -31,9 +31,9 @@ Código: [Repositório](https://github.com/iamfelipy/f3-clean-architecture/tree/
 typescript, jest  
 Testes: Unit (51), Integration (19), E2E (6)
 
-8. sistema monolitico modular - comunicação entre modulos com facade
+8. sistema monolitico modular - comunicação entre modulos com facade  
 Código: [Repositório](https://github.com/iamfelipy/fc3-sistema-monolitico-modular)  
-typescript, jest, clean architecture, domain driven design, facade, test driven development
+typescript, jest, clean architecture, domain driven design, facade, test driven development  
 
 Front-end
 
@@ -81,7 +81,7 @@ Stack: Next.js, React, TypeScript, Next Auth (Google), Google APIs, Prisma ORM, 
 Deploy: [Link](https://2024-rocketseat-reactjs.vercel.app/)  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/3-http-performance/dt-money)  
 Stack: React, TypeScript, Vite, Styled Components, Phosphor Icons, Axios, JSON Server, Context API, use-context-selector, React Hook Form, Zod, @hookform/resolvers, @radix-ui/react-dialog, @radix-ui/react-radio-group, Intl API, ESLint, TypeScript ESLint  
-Obs: O JSON Server funciona apenas localmente para desenvolvimento.
+Obs: não tem api, usa json server localmente
 
 10. Jogo dos Balões (Vanilla JS)  
 Deploy: [Link](https://iamfelipy.github.io/felipy/jogoBaloes/)  
