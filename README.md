@@ -34,6 +34,7 @@ Testes: Unit (51), Integration (19), E2E (6)
 8. sistema monolitico modular - comunicação entre modulos com facade  
 Código: [Repositório](https://github.com/iamfelipy/fc3-sistema-monolitico-modular)  
 typescript, jest, clean architecture, domain driven design, facade, test driven development  
+Testes: 30
 
 Front-end
 
