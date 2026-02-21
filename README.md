@@ -94,14 +94,21 @@ Stack: JavaScript (Vanilla)
 
 Projetos alternativos:
 
-gRPC – Go  
+Go
+
+1. gRPC – Go  
 Código: [Repositório](https://github.com/iamfelipy/gRPC-go-fullcycle)
 
-GraphQL – Go  
+2. GraphQL – Go  
 Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycle)
 
-Arquitetura Hexagonal – Go  
+3. Arquitetura Hexagonal – Go  
 Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
+
+4. microservices  
+Código: [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)
+
+Rust
 
 Book: The rust book  
 Código: [Repositório](https://github.com/iamfelipy/rust-book)
