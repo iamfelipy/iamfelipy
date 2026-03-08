@@ -106,7 +106,8 @@ Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycl
 Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
 
 4. microservices  
-Código: [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)
+Código: [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
+trait: go, event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity
 
 Rust
 
