@@ -1,9 +1,13 @@
 [LinkedIn](https://www.linkedin.com/in/felipycamargo/)  
 [Duolingo](https://www.duolingo.com/profile/ofelcam)
 
-Projetos no ecossistema JavaScript/TypeScript:
+#### microservices:  
+- Código: [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
+- trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs
 
-Back-end
+#### projetos no ecossistema JavaScript/TypeScript:
+
+##### backend
 
 1. api sem framework nodejs nativo  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/1-fundamentos/desafio-fundamentos)  
@@ -36,7 +40,7 @@ Código: [Repositório](https://github.com/iamfelipy/fc3-sistema-monolitico-modu
 Stack: typescript, jest, clean architecture, domain driven design, facade, test driven development  
 Testes: 30
 
-Front-end
+##### frontend
 
 1. Countdown  
 Deploy: [Link](https://2024-rocketseat-reactjs-countdown-p1levb9t3-iamfelipys-projects.vercel.app/)  
@@ -92,7 +96,7 @@ Stack: JavaScript (Vanilla)
 Deploy: [Link](https://iamfelipy.github.io/felipy/jogoMemoria/)  
 Stack: JavaScript (Vanilla)
 
-Projetos alternativos:
+#### projetos alternativos:
 
 Go
 
@@ -105,14 +109,10 @@ Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycl
 3. Arquitetura Hexagonal – Go  
 Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
 
-4. microservices  
-Código: [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
-trait: go, event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity
-
 Rust
 
 Book: The rust book  
 Código: [Repositório](https://github.com/iamfelipy/rust-book)
 
-Projetos antigos:
+#### projetos antigos:
 [Projetos antigos](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)  
