@@ -115,8 +115,8 @@ Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
 
 Rust
 
-Book: The rust book  
-Código: [Repositório](https://github.com/iamfelipy/rust-book)
+1. minigrep
+[Repositório](https://github.com/iamfelipy/rust-book/tree/main/12-cli-grep/minigrep)
 
 #### projetos antigos:
 [Projetos antigos](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)  
