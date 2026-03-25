@@ -6,8 +6,9 @@
   - [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
   - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs
 
-#### mensageria, comunicação assincrona de dados entre processos:
-  - rabbitmq: [Repositório](https://github.com/iamfelipy/fc3-rabbitmq) 
+#### mensageria, comunicação assincrona de dados entre sistemas:
+  - rabbitmq: [Repositório](https://github.com/iamfelipy/fc3-rabbitmq)
+  - apache kafka: [Repositório](https://github.com/iamfelipy/fc3-apache-kafka)
 
 #### projetos no ecossistema JavaScript/TypeScript:
 
