@@ -6,6 +6,10 @@
   - [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
   - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs
 
+#### docker
+- [Repositório](https://github.com/iamfelipy/fullcycle-3.0-docker-modulo)
+- Criação de imagem, Bind de volumes, Configuração de network, Exposição de portas, Uso de ENTRYPOINT e CMD, Multistage build com Alpine, Dockerização de aplicações, imagens de desenvolvimento e produção
+
 #### mensageria, comunicação assincrona de dados entre sistemas:
   - rabbitmq: [Repositório](https://github.com/iamfelipy/fc3-rabbitmq)
   - apache kafka: [Repositório](https://github.com/iamfelipy/fc3-apache-kafka)
