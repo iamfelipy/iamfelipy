@@ -1,5 +1,5 @@
 [LinkedIn](https://www.linkedin.com/in/felipycamargo/)  
-[Duolingo](https://www.duolingo.com/profile/ofelcam)
+[Duolingo](https://www.duolingo.com/profile/prhio) - 450 days
 
 #### microservices:  
 - wallet system
