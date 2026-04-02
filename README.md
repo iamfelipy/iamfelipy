@@ -13,6 +13,7 @@
 #### mensageria, comunicação assincrona de dados entre sistemas:
   - rabbitmq: [Repositório](https://github.com/iamfelipy/fc3-rabbitmq)
   - apache kafka: [Repositório](https://github.com/iamfelipy/fc3-apache-kafka)
+  - kafka connect(mysql->mongodb): [Repositório](https://github.com/iamfelipy/fc3-kafka-connect-plugin/tree/main)
 
 #### projetos no ecossistema JavaScript/TypeScript:
 
