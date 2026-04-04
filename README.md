@@ -29,7 +29,7 @@ CI/CD: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/m
 Stack: Fastify, TDD, Prisma, TypeScript
 
 5. Monolito – API – Fórum – DDD + Clean Architecture  
-Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/4-nestjs-nodejs/4-nestjs-nodejs)  
+Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/4-nestjs-nodejs)  
 Stack: NestJS, TDD, DDD, Prisma, Clean Architecture, TypeScript, Redis
 
 6. Monolito – API – FastFeet – DDD + Clean Architecture  
