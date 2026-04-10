@@ -15,6 +15,10 @@
   - apache kafka: [Repositório](https://github.com/iamfelipy/fc3-apache-kafka)
   - kafka connect(mysql->mongodb): [Repositório](https://github.com/iamfelipy/fc3-kafka-connect-plugin/tree/main)
 
+#### autenticação e autorização: 
+- keycloak: [Repositório](https://github.com/iamfelipy/fc3-keycloak)
+  - Oauth 2.0, OIDC: open id connect, fluxos de autenticação, roles, grupos, permissões, clients, realms
+
 #### projetos no ecossistema JavaScript/TypeScript:
 
 ##### backend
