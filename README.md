@@ -17,7 +17,7 @@
 
 #### autenticação e autorização: 
 - keycloak: [Repositório](https://github.com/iamfelipy/fc3-keycloak)
-  - Oauth 2.0, OIDC: open id connect, fluxos de autenticação, roles, grupos, permissões, clients, realms
+  - Oauth 2.0, OIDC: open id connect, fluxos de autenticação(Authorization Code Flow, Implicit Flow, Hybrid Flow, Resource Owner Password Credentials), roles, grupos, permissões, clients, realms
 
 #### projetos no ecossistema JavaScript/TypeScript:
 
