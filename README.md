@@ -5,6 +5,8 @@
 - wallet system
   - [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
   - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs
+- codeflix - em construção
+  - [Repositório](https://github.com/iamfelipy/fc3-codeflix-netflix/tree/main)
 
 #### docker
 - [Repositório](https://github.com/iamfelipy/fullcycle-3.0-docker-modulo)
