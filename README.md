@@ -1,13 +1,33 @@
 [LinkedIn](https://www.linkedin.com/in/felipycamargo/)  
 [Duolingo](https://www.duolingo.com/profile/prhio) - 450 days
 
-#### microservices:  
-- wallet system
-  - [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
-  - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs
-- codeflix - em construção
-  - [Repositório](https://github.com/iamfelipy/fc3-codeflix-netflix/tree/main)
- 
+#### design e arquitetura:
+
+1. Arquitetura Hexagonal – Go  
+Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
+
+2. DDD – Domain Driven Design (Puro)  
+Código: [Repositório](https://github.com/iamfelipy/f3-ddd-tatico-patterns-ts/tree/main)  
+Stack: typescript, jest
+
+3. Clean Architecture  
+Código: [Repositório](https://github.com/iamfelipy/f3-clean-architecture/tree/main)  
+Stack: typescript, jest  
+Testes: Unit (51), Integration (19), E2E (6)
+
+4. sistema monolitico modular - comunicação entre modulos com facade  
+Código: [Repositório](https://github.com/iamfelipy/fc3-sistema-monolitico-modular)  
+Stack: typescript, jest, clean architecture, domain driven design, facade, test driven development  
+Testes: 30
+
+#### comunicação:
+
+1. gRPC – Go  
+Código: [Repositório](https://github.com/iamfelipy/gRPC-go-fullcycle)
+
+2. GraphQL – Go  
+Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycle)
+
 #### service discovery
 - consul
   - [Repositório](https://github.com/iamfelipy/service-discovery-consul)
@@ -49,20 +69,6 @@ Stack: NestJS, TDD, DDD, Prisma, Clean Architecture, TypeScript, Redis
 6. Monolito – API – FastFeet – DDD + Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/5-nestjs-fast-feet-api)  
 Stack: Node.js, NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis, JWT, Docker, Vitest (unitários e E2E), Zod, Bcrypt.js, AWS SDK (S3), ESLint + Prettier, Dotenv
-
-7. DDD – Domain Driven Design (Puro)  
-Código: [Repositório](https://github.com/iamfelipy/f3-ddd-tatico-patterns-ts/tree/main)  
-Stack: typescript, jest
-
-8. Clean Architecture  
-Código: [Repositório](https://github.com/iamfelipy/f3-clean-architecture/tree/main)  
-Stack: typescript, jest  
-Testes: Unit (51), Integration (19), E2E (6)
-
-8. sistema monolitico modular - comunicação entre modulos com facade  
-Código: [Repositório](https://github.com/iamfelipy/fc3-sistema-monolitico-modular)  
-Stack: typescript, jest, clean architecture, domain driven design, facade, test driven development  
-Testes: 30
 
 ##### frontend
 
@@ -120,20 +126,14 @@ Stack: JavaScript (Vanilla)
 Deploy: [Link](https://iamfelipy.github.io/felipy/jogoMemoria/)  
 Stack: JavaScript (Vanilla)
 
-#### projetos alternativos:
+#### microservices:  
+- wallet system
+  - [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
+  - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs
+- codeflix - em construção
+  - [Repositório](https://github.com/iamfelipy/fc3-codeflix-netflix/tree/main)
 
-Go
-
-1. gRPC – Go  
-Código: [Repositório](https://github.com/iamfelipy/gRPC-go-fullcycle)
-
-2. GraphQL – Go  
-Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycle)
-
-3. Arquitetura Hexagonal – Go  
-Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
-
-Rust
+#### Rust
 
 1. minigrep
 [Repositório](https://github.com/iamfelipy/rust-book/tree/main/12-cli-grep/minigrep)
