@@ -21,12 +21,15 @@ Stack: typescript, jest, clean architecture, domain driven design, facade, test 
 Testes: 30
 
 #### comunicação:
-
+- expor funcionalidades para o mundo externo - Camada de API (Web) 
 1. gRPC – Go  
 Código: [Repositório](https://github.com/iamfelipy/gRPC-go-fullcycle)
 
 2. GraphQL – Go  
 Código: [Repositório](https://github.com/iamfelipy/server-graphql-go-full-cycle)
+
+3. REST - nest  
+Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/5-nestjs-fast-feet-api/src/infra/http)
 
 #### service discovery
 - consul
