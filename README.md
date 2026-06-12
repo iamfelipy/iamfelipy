@@ -134,7 +134,8 @@ Stack: JavaScript (Vanilla)
   - [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
   - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs
 - codeflix - em construção
-  - [Repositório](https://github.com/iamfelipy/fc3-codeflix-netflix/tree/main)
+  - [Repositório](https://github.com/iamfelipy/fc3-codeflix-netflix/tree/main)  
+  - [event-storming](https://whimsical.com/felipy-s-workspace/event-storming-RYPkBfeTH251u5Fk4e7JQV@6HYTAunKLgTX1VPDZZjEEoTC6AqBfhF1vnb4Yo2fTv8r31o)
 
 #### Rust
 
