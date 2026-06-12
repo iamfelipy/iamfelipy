@@ -2,20 +2,21 @@
 [Duolingo](https://www.duolingo.com/profile/prhio) - 450 days
 
 #### design e arquitetura:
+0. [Visão Geral: Características Arquiteturais](https://app.notion.com/p/Vis-o-Geral-Caracter-sticas-Arquiteturais-37d329e07f0a80f4988df85f1cf40ba2?source=copy_link)
 
-1. Arquitetura Hexagonal – Go  
+2. Arquitetura Hexagonal – Go  
 Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
 
-2. DDD – Domain Driven Design (Puro)  
+3. DDD – Domain Driven Design (Puro)  
 Código: [Repositório](https://github.com/iamfelipy/f3-ddd-tatico-patterns-ts/tree/main)  
 Stack: typescript, jest
 
-3. Clean Architecture  
+4. Clean Architecture  
 Código: [Repositório](https://github.com/iamfelipy/f3-clean-architecture/tree/main)  
 Stack: typescript, jest  
 Testes: Unit (51), Integration (19), E2E (6)
 
-4. sistema monolitico modular - comunicação entre modulos com facade  
+5. sistema monolitico modular - comunicação entre modulos com facade  
 Código: [Repositório](https://github.com/iamfelipy/fc3-sistema-monolitico-modular)  
 traits: typescript, jest, clean architecture, domain driven design, facade, test driven development, migration
 Testes: 30
