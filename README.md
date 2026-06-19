@@ -103,7 +103,7 @@ Stack: React, TypeScript, Vite, Styled Components, Font Awesome, Axios, Context 
 4. Pizza Shop  
 Deploy: [Link](https://pizza-shop-react-rocketseat-2025.vercel.app/)  
 Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-reactjs/blob/main/4-Integrando-frontend-backend/README.md)  
-Stack: React, TypeScript, Vite, TailwindCSS, MSW, React Query, Vitest, Testing Library, Playwright (E2E)
+Stack: React, TypeScript, Vite, TailwindCSS, shadcn/ui, MSW, React Query, Vitest, Testing Library, Playwright (E2E)
 
 5. Ignite Shop (Stripe)  
 Deploy: [Link](https://nextjs-ignite-shop-v2.vercel.app/)  
