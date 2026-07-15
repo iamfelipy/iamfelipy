@@ -141,8 +141,9 @@ Stack: JavaScript (Vanilla)
 
 #### Rust
 
-1. minigrep
-[Repositório](https://github.com/iamfelipy/rust-book/tree/main/12-cli-grep/minigrep)
+1. rust  
+[Repositório](https://github.com/iamfelipy/rust-book/tree/main)  
+traits: borrow, ownership, struct, enum, packages, collections, collections, error, generic, trait, lifetime, iterator/closures
 
 #### projetos antigos:
 [Projetos antigos](https://docs.google.com/document/d/1niLdaF77w39iunAgpVwBNzNUkZIMXiWEH6Xktw94pT8/edit?usp=sharing)  
