@@ -2,7 +2,7 @@
 [Duolingo](https://www.duolingo.com/profile/prhio) - 450 days
 
 #### design e arquitetura:
-0. [Visão Geral: Características Arquiteturais](https://app.notion.com/p/Vis-o-Geral-Caracter-sticas-Arquiteturais-37d329e07f0a80f4988df85f1cf40ba2?source=copy_link)
+0. [arquitetura, resiliencia, performance, escalabilidade](https://app.notion.com/p/links-uteis-39e329e07f0a8039b278ebb5c230daaa?source=copy_link)
 
 2. Arquitetura Hexagonal – Go  
 Código: [Repositório](https://github.com/iamfelipy/fc-3-arquitetura-hexagonal)
