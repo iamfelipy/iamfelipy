@@ -24,7 +24,7 @@ Testes: 30
 6. event-driven architecture
   - wallet system  
     - [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
-    - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs
+    - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs, seed database
 7. microservices:
   - codeflix - em construção  
     - [Repositório](https://github.com/iamfelipy/fc3-codeflix-netflix/tree/main)  
