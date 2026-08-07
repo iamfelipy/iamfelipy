@@ -1,6 +1,9 @@
 [LinkedIn](https://www.linkedin.com/in/felipycamargo/)  
 [Duolingo](https://www.duolingo.com/profile/prhio) - 450 days
 
+#### projeto de apresentação utilizado como teste técnico:
+https://github.com/iamfelipy/fc3-codeflix-backend-admin-catalogo-de-videos/tree/apresentacao-entrevista
+
 #### design e arquitetura:
 0. [arquitetura, resiliencia, performance, escalabilidade](https://app.notion.com/p/links-uteis-39e329e07f0a8039b278ebb5c230daaa?source=copy_link)
 
