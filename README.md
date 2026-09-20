@@ -28,10 +28,14 @@ Testes: 30
   - wallet system  
     - [Repositório](https://github.com/iamfelipy/fc3-microservices/tree/main)  
     - trait: event-driven architecture, microservice, unit of work, messaging, kafka, asynchronous communication, unit test, integration test, transactional atomicity, c4 model, go, nodejs, seed database
+    
 7. microservices:
   - codeflix - em construção  
     - [Repositório](https://github.com/iamfelipy/fc3-codeflix-netflix/tree/main)  
     - [event-storming](https://whimsical.com/felipy-s-workspace/event-storming-RYPkBfeTH251u5Fk4e7JQV@6HYTAunKLgTX1VPDZZjEEoTC6AqBfhF1vnb4Yo2fTv8r31o)
+
+8. solid
+  - [Repositório](https://github.com/iamfelipy/fc3-solid-express)
 
 #### comunicação:
 - expor funcionalidades para o mundo externo - Camada de API (Web) 
@@ -54,16 +58,14 @@ Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree
 
 #### mensageria, comunicação assincrona de dados entre sistemas:
   - rabbitmq: [Repositório](https://github.com/iamfelipy/fc3-rabbitmq)
-    - facilitar a comunicação assíncrona de dados entre processos.
+    - p2p, queue
   - apache kafka: [Repositório](https://github.com/iamfelipy/fc3-apache-kafka)
+    - event-driven-arq, pub/sub 
   - kafka connect(mysql->mongodb): [Repositório](https://github.com/iamfelipy/fc3-kafka-connect-plugin/tree/main)
 
 #### autenticação e autorização: 
 - keycloak: [Repositório](https://github.com/iamfelipy/fc3-keycloak)
   - Oauth 2.0, OIDC: open id connect, fluxos de autenticação(Authorization Code Flow, Implicit Flow, Hybrid Flow, Resource Owner Password Credentials), roles, grupos, permissões, clients, realms
-
-#### solid
-- [Repositório](https://github.com/iamfelipy/fc3-solid-express)
 
 
 #### projetos no ecossistema JavaScript/TypeScript:
