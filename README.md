@@ -35,7 +35,7 @@ Testes: 30
 
 #### comunicação:
 - expor funcionalidades para o mundo externo - Camada de API (Web) 
-1. gRPC – Go  
+1. gRPC, rpc, http/2 – Go  
 Código: [Repositório](https://github.com/iamfelipy/gRPC-go-fullcycle)
 
 2. GraphQL – Go  
