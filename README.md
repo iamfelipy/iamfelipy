@@ -58,9 +58,10 @@ Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree
 
 #### mensageria, comunicação assincrona de dados entre sistemas:
   - rabbitmq: [Repositório](https://github.com/iamfelipy/fc3-rabbitmq)
-    - p2p, queue
+    - p2p, queue, pub/sub
   - apache kafka: [Repositório](https://github.com/iamfelipy/fc3-apache-kafka)
-    - event-driven-arq, pub/sub 
+    - event-driven-arq, pub/sub
+    - volumetria alta, integracao com muitos sistemas
   - kafka connect(mysql->mongodb): [Repositório](https://github.com/iamfelipy/fc3-kafka-connect-plugin/tree/main)
 
 #### autenticação e autorização: 
