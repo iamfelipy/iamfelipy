@@ -67,6 +67,9 @@ Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree
 #### autenticação e autorização: 
 - keycloak: [Repositório](https://github.com/iamfelipy/fc3-keycloak)
   - Oauth 2.0, OIDC: open id connect, fluxos de autenticação(Authorization Code Flow, Implicit Flow, Hybrid Flow, Resource Owner Password Credentials), roles, grupos, permissões, clients, realms
+  - RFC 7231: HTTP/1.1 Semantics and Content (métodos, status codes, headers)
+  - RFC 6749: OAuth 2.0 Authorization Framework
+  - RFC 7519: JSON Web Token (JWT)
 
 
 #### projetos no ecossistema JavaScript/TypeScript:
