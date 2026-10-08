@@ -71,7 +71,9 @@ Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree
   - RFC 6749: OAuth 2.0 Authorization Framework
   - RFC 7519: JSON Web Token (JWT)
 
-
+#### observabilidade
+- microservico-gestao-de-conteudo: [Repositório](https://github.com/iamfelipy/fc3-codeflix-backend-admin-catalogo-de-videos/blob/main/docker/docker-compose.elk.yaml)
+  - elastic stack: filebeat, logstash, elasticsearch, kibana
 #### projetos no ecossistema JavaScript/TypeScript:
 
 ##### backend
