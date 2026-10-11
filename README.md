@@ -79,6 +79,8 @@ Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree
 - design system
   - frontend, release, deploy
   - [repo](https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/6-design-system/projeto-do-modulo-design-system/.github/workflows)
+- test unit, integration
+  - [repo](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/.github/workflows)
 
 #### projetos no ecossistema JavaScript/TypeScript:
 
