@@ -1,5 +1,4 @@
 [LinkedIn](https://www.linkedin.com/in/felipycamargo/)  
-[Duolingo](https://www.duolingo.com/profile/prhio) - 450 days
 
 #### projeto de apresentação utilizado como teste técnico:
 https://github.com/iamfelipy/fc3-codeflix-backend-admin-catalogo-de-videos/tree/apresentacao-entrevista
@@ -73,14 +72,18 @@ Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree
 
 #### observabilidade, monitoramento
 - microservico-gestao-de-conteudo: [Repositório](https://github.com/iamfelipy/fc3-codeflix-backend-admin-catalogo-de-videos/blob/main/docker/docker-compose.elk.yaml)
-  - elastic stack: filebeat, logstash, elasticsearch, kibana
+  - elastic stack: filebeat, logstash, elasticsearch, kibana, dockerlog+stdout
  
 #### CI/CD
-- design system
+- frontend, design system, ignite call
   - frontend, release, deploy
   - [repo](https://github.com/iamfelipy/2024-rocketseat-reactjs/tree/main/6-design-system/projeto-do-modulo-design-system/.github/workflows)
-- test unit, integration
+- backend, GymPass API 
+  - test unit, integration
   - [repo](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree/main/.github/workflows)
+- backend, micro-video-admin
+  - dockerbuildX, dockerFile.prod, test, ...
+  - [repo](https://github.com/iamfelipy/fc3-codeflix-backend-admin-catalogo-de-videos/blob/main/.github/workflows/ci-cd.yaml)
 
 #### projetos no ecossistema JavaScript/TypeScript:
 
