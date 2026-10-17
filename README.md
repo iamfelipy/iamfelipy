@@ -33,7 +33,7 @@ Testes: 30
     - [Repositório](https://github.com/iamfelipy/fc3-codeflix-netflix/tree/main)  
     - [event-storming](https://whimsical.com/felipy-s-workspace/event-storming-RYPkBfeTH251u5Fk4e7JQV@6HYTAunKLgTX1VPDZZjEEoTC6AqBfhF1vnb4Yo2fTv8r31o)
     - micro-video-admin
-      - Microserviço backend para administração de catálogo de vídeos (Codeflix): API REST, NestJS, Clean Architecture, DDD, mensageria (RabbitMQ), autenticação (Keycloak), testes automatizados e integração com Google Cloud Storage.
+      - Microserviço backend para administração do catálogo de vídeos (Codeflix): API REST, NestJS, Clean Architecture, DDD, arquitetura orientada a eventos, mensageria (RabbitMQ), autenticação (Keycloak), testes automatizados, integração com Google Cloud Storage, migrations e Sequelize.
       - [repo](https://github.com/iamfelipy/fc3-codeflix-backend-admin-catalogo-de-videos/tree/main)  
 
 8. solid
