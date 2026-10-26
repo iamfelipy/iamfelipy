@@ -54,6 +54,10 @@ Código: [Repositório](https://github.com/iamfelipy/2024-rocketseat-nodejs/tree
 - consul
   - [Repositório](https://github.com/iamfelipy/service-discovery-consul)
 
+#### spec-driven development
+- github spec git
+  - [repo](https://github.com/iamfelipy/fc3-codeflix-backend-admin-catalogo-de-videos/tree/main/ai-workspace/.specify)
+
 #### docker
 - [Repositório](https://github.com/iamfelipy/fullcycle-3.0-docker-modulo)
 - Criação de imagem, Bind de volumes, Configuração de network, Exposição de portas, Uso de ENTRYPOINT e CMD, Multistage build com Alpine, Dockerização de aplicações, imagens de desenvolvimento e produção
